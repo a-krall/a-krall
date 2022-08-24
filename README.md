@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I do card tricks
 -->
+
+- 🔭 I’m currently working on ... my Aerospace Engineering BA
+- 🌱 I’m currently learning ... AerE 361
+- 📫 How to reach me: ... akrall@iastate.edu
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I do card tricks
